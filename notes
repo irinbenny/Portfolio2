@@ -1,0 +1,19 @@
+display:grid
+row-column:25px;,column-gap:;column
+grid-template-column:auto auto auto auto,2, 1fr(eq to 225px)
+
+1 rem(eq to 16px)
+
+command- alt-shift-a
+
+wrap- alt-w
+
+object-position: how an img/video should be postioned on x and y coordinate
+
+text-decoration:underline,overline,line-through
+text-transform:lowercase,uppercase,capatilze
+text-intend:30px;(paraghaph thudagumbo first line 30px gap varum)
+letter-spaaccing:5px;
+line-height:1px;(paragraph 2 line thammilula distance)
+word-spacing:1px;
+text-shado: 2px 2px 5px black  (hor,vert,nthoram vennam enn ullath)
